@@ -1,0 +1,35 @@
+body{
+  font-family: cursive;
+  background-color: rgba(255, 254, 185, 0.781);
+}
+
+header{
+  border: solid 1px black;
+  border-radius: 10px;
+  text-align: center;
+  background-color: rgba(0, 255, 242, 0.781);
+}
+
+article{
+  border: solid 1px black;
+  border-radius: 10px;
+  margin: 20px 15% 20px 15%;
+  padding: 10px;
+  background-color: rgba(255, 0, 179, 0.781);
+}
+
+section{
+  border: solid 1px black;
+  border-radius: 10px;
+  margin: 10px 20% 10px 20%;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.781);
+  color: #fff;
+}
+
+footer{
+  border: solid 1px black;
+  border-radius: 10px;
+  text-align: center;
+  background-color: rgba(0, 255, 242, 0.781);
+}
